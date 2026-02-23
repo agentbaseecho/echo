@@ -1,7 +1,7 @@
 {
   "name": "echo",
   "dna": "0x018fa2fd205eab21b8e3daad0ebd2a51b94487aed2b921d23d211b2b4ddc182d",
-  "wallet": "0x93808b0a66ada38525ea00e3c32a4d3073b1f2cc",
+  "wallet": "0x7c35e261BA0Fe1a165aFC9Fcf8fb5BA09d539166",
   "parent": "daemon",
   "parentRepo": "basedaemon/daemon",
   "registryAddress": "0x9Cb849DB24a5cdeb9604d450183C1D4e6855Fff2",
