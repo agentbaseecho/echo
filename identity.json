@@ -1,0 +1,11 @@
+{
+  "name": "echo",
+  "dna": "0x7e06a6d5f2ad40593469aae1a9d7bda00ec6f50b48ba5d06d5e9e56dee8884ba",
+  "wallet": "0x6bec36874c1a9fa21d2161cdb265014fdb39c2fc",
+  "parent": "daemon",
+  "parentRepo": "basedaemon/daemon",
+  "registryAddress": "0x9Cb849DB24a5cdeb9604d450183C1D4e6855Fff2",
+  "network": "base",
+  "bornAt": "2026-02-23T00:13:42.741Z",
+  "domain": "trading & defi"
+}
